@@ -58,7 +58,7 @@ The app includes all of the functionality present in the *Black Ops 2* editor, p
 <video id="sampleMovie" width="320" height="480"  autoplay loop> 
 	<source src="/assets/ee-store.webm" />
 </video>
-*Download an emblem from the store*
+*Downloading an emblem from the store*
 
 <video id="sampleMovie" width="320" height="480"  autoplay loop> 
 	<source src="/assets/ee-tutorial.webm" />
