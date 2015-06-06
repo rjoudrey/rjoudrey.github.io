@@ -23,7 +23,7 @@ iCarousel, ViewDeck, ASIHTTPRequest, EBPurchase
 
 The emblem editor in *Black Ops 2* is a feature that allows users to customize the image that represents them in the game and in the multiplayer game lobby.
 
-![](/assets/ee-overview.jpg)
+![](/assets/bo2ee/overview.jpg)
 *The editor overview screen (in-game)*
 
 There are a few rules that are used when creating emblems in Black Ops 2:
@@ -39,7 +39,7 @@ There are a few rules that are used when creating emblems in Black Ops 2:
     6. Copy to another layer (and possibly overwrite it's layer's image)
     7. Rearrange (e.g. the image in the first layer can be moved to be in the second layer)
 
-![](/assets/ee-edit-layer.jpg)
+![](/assets/bo2ee/edit-layer.jpg)
 *Selecting an image for a layer of the emblem (in-game)*
 
 The app includes all of the functionality present in the *Black Ops 2* editor, plus the following:
@@ -51,20 +51,20 @@ The app includes all of the functionality present in the *Black Ops 2* editor, p
 ## Previews
 
 <video id="sampleMovie" width="320" height="480"  autoplay loop> 
-	<source src="/assets/ee-editor.webm" />
-	<source src="/assets/ee-editor.mp4" />
+	<source src="/assets/bo2ee/editor.webm" />
+	<source src="/assets/bo2ee/editor.mp4" />
 </video>
 *Editing an emblem*
 
 <video id="sampleMovie" width="320" height="480"  autoplay loop> 
-	<source src="/assets/ee-store.webm" />
-	<source src="/assets/ee-store.mp4" />
+	<source src="/assets/bo2ee/store.webm" />
+	<source src="/assets/bo2ee/store.mp4" />
 </video>
 *Downloading an emblem from the store*
 
 <video id="sampleMovie" width="320" height="480"  autoplay loop> 
-	<source src="/assets/ee-tutorial.webm" />
-	<source src="/assets/ee-tutorial.mp4" />
+	<source src="/assets/bo2ee/tutorial.webm" />
+	<source src="/assets/bo2ee/tutorial.mp4" />
 </video>
 *Viewing the tutorial for an emblem*
 
@@ -80,7 +80,7 @@ The app includes all of the functionality present in the *Black Ops 2* editor, p
 
 ## Reviews
 
-![](/assets/reviews.png)
+![](/assets/bo2ee/reviews.png)
 
 
 ## Video
